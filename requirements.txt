@@ -1,0 +1,8 @@
+faker
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+sqlalchemy
+pymysql
