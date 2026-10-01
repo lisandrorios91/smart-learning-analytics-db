@@ -120,6 +120,13 @@ smart-learning-analytics-db/
 
 ## Team
 
+## My contributions
+
+- **Advanced SQL queries:** wrote the analytical queries in [`05_analytical_queries.sql`](sql/05_analytical_queries.sql), including window functions (`RANK`, `NTILE`, `LAG`, `LEAD`), nested queries, full-text search and JSON/XML extraction.
+- **ML dataset extraction:** wrote the queries in [`06_ml_dataset_extraction.sql`](sql/06_ml_dataset_extraction.sql) that build the regression, classification and clustering datasets.
+- **Schema design:** helped design the 11-table normalized schema and its constraints.
+- **Documentation:** co-wrote the project report.
+
 Final group project for CPSC 500 SQL Databases, Master of Data Analytics, University of Niagara Falls Canada (2025).
 
 **Lisandro Rios** · Rithik Roy Pakki · Mauricio Fernando Calderon Barrientos
